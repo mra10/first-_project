@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int
+    int abir;
+    printf("abir");
 
 
 }
